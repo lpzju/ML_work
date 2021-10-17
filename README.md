@@ -2,7 +2,7 @@
 Learn and study machine learning
 Aim: different parameters to see the loss and accuracy
 
-# First attempt：
+### First attempt：
     - The finally loss is 1.302
     - The accuracy rate is 53%
     - The highest recognition rate is frog with 82% accuracy
