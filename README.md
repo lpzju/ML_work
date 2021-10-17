@@ -19,7 +19,7 @@ Aim: different parameters to see the loss and accuracy
     - small-batch waste too much time,and didn't perform well
     
 ### Something about the parameters of CNN
-    - Too much parameters to choose
+    - Too much parameters to choose/Black box model
     - After checking the information，feel that the parameters given are good enough
     
 ### Increase the number of epochs：for epoch in range(4)
@@ -30,4 +30,8 @@ Aim: different parameters to see the loss and accuracy
     - The recognition accuracy of 7 categories is above 50%
 
 ### optimization selection：Adam
-    - 
+    - The finally loss is 1.236
+    - The accuracy rate is 57%
+    - The highest recognition rate is car with 73% accuracy
+    - The lowest recognition rate is cat with 34% accuracy
+    - Similar to SGDM algorithm results
